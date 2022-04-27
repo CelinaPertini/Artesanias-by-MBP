@@ -90,6 +90,7 @@ p{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    height: 50px;
     
 }
 .nav ul li{
@@ -107,6 +108,7 @@ p{
 
 .nav a:hover{
     color: #b9b0b0;
+    font-size: 28px;
 }
 
 table, th, td{
