@@ -44,7 +44,7 @@ header{
 
 #hero{
     height: 90vh;
-    background-image: url('assets/hero.jpeg');
+    background-image: url('assets/hero3.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -54,10 +54,9 @@ header{
 }
 #hero .banner{
     color: #f0fff0;
-    background-color: #000000;
-    font-size: 50px;
-    font-style: italic;
+    font-size: 70px;
     text-align: center;
+    font-weight: bolder;
 }
 main{
     
